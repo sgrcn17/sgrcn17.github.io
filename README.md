@@ -1,5 +1,5 @@
-### Hi 👋
-# My name is Aleksander
+# Hi 👋
+### My name is Aleksander
 I Like:
 * math
 * programming
@@ -7,6 +7,6 @@ I Like:
 * computer games
 * kickboxing
 
-# Links to my profiles:
+### Links to my profiles:
 [CodeForces](https://codeforces.com/profile/aleksy)
 [Steam](https://steamcommunity.com/id/trueALK17/)
