@@ -6,6 +6,8 @@ I Like:
 * algorithms
 * computer games
 * kickboxing
+* anime
+* esport
 
 ### Links to my profiles:
 [CodeForces](https://codeforces.com/profile/aleksy)
